@@ -1,5 +1,8 @@
 package com.stiger.scala.test01
 
+/**
+  *函数传名调用
+  */
 object test02 {
   def main(args: Array[String]): Unit = {
     delayed(time());
